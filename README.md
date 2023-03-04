@@ -1,2 +1,2 @@
-# Data_Structures_implementations
-Data Structures Implementations during practice through "CS214: Data Structures" course
+# Data Structures implementations
+Implementing some data structures in C++ during practical labs through "CS214: Data Structures" course.
